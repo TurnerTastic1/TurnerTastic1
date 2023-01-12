@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Turner and I am currently working for a BA in Computer Science with a minor in business. I have intermediate Fullstack experience with Node.js, Typescript and React. Checkout [Project Cluster-Prism](https://github.com/TurnerTastic1/Project-Cluster-Prism), a Fullstack project using the MERN tech stack.
+My name is Turner and I am currently majoring in Computer Science with a minor in business. I have intermediate Fullstack experience with Node.js, Typescript and React. Checkout [Project Cluster-Prism](https://github.com/TurnerTastic1/Project-Cluster-Prism), a Fullstack project using the MERN tech stack.
 
 
 - 🔭 I’m currently using [Rustlings](https://github.com/rust-lang/rustlings) to teach myself Rust
