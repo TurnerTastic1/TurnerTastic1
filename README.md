@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+
 <div style="width:60px ; height:60px">
-![](/Chewbacca.jpg?raw=true "")
+![Employee data](/Chewbacca.jpg?raw=true "Employee Data title")
 <div>
