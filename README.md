@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Turner and I am currently working for a BA in Computer Science with a minor in business. I have intermediate Fullstack experience with Node.js, typescript and react. Checkout [Project Cluster-Prism](https://github.com/TurnerTastic1/Project-Cluster-Prism), a Fullstack project using the MERN tech stack.
 
