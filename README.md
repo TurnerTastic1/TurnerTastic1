@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![image info](./Chewbacca.jpg)
+![image info](./2D9CC9BF-F8D5-436C-B136-FA86262312D2.JPG)
 
 My name is Turner and I am currently majoring in Computer Science with a minor in business. I have fullstack experience with Node.js, Typescript and React. Checkout [Project Cluster-Prism](https://github.com/TurnerTastic1/Project-Cluster-Prism), a Fullstack project using the MERN tech stack.
 
