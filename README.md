@@ -16,4 +16,4 @@ Some projects:
 - 🌱 I am looking to grow my experience and knowledege in Network/Systems programming, AI (Best ways to use it!) - Anything else! I need suggestions...
 - 🌱 I’m looking to collaborate on a small indie game project. I joined [Beckman](https://github.com/Beckman123) and helped work on [Dashmaster](https://github.com/Beckman123/Dash-Master), a fun Java based movement and evasion game. I am learning OpenGL through the University of Colorado and expanding my graphics knowledge.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TurnerTastic1&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TurnerTastic1)](https://git.io/streak-stats)
